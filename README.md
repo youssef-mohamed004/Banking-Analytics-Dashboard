@@ -259,6 +259,25 @@ Banking-Analytics-Dashboard/
 
 ---
 
+---
+
+## 👤 Author
+
+**Youssef Mohamed**
+
+Aspiring Data Analyst interested in Business Intelligence, Data Visualization, and Data-Driven Decision-Making.
+
+This project represents hands-on practice in applying Excel analytics techniques to a fashion e-commerce business scenario.
+
+- **GitHub:** [@youssef-mohamed004](https://github.com/youssef-mohamed004)
+- **Project Repository:** [the-look-ecommerce-analytics](https://github.com/youssef-mohamed004/the-look-ecommerce-analytics)
+- **LinkedIn:** [Youssef Mohamed](https://www.linkedin.com/in/youssef-mohamed-6038092b2/).
+
+---
+
+---
+
+
 ## 🙏 Acknowledgment
 
 Special thanks to **Jana Hatem** for the guidance throughout the training, and to **Mohamed Megahed** and **Mohamed Ibrahim** for their feedback and support.
